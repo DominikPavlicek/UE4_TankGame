@@ -1,0 +1,3 @@
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankGame.Build.cs
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame.Target.cs
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGameEditor.Target.cs

@@ -1,0 +1,775 @@
+﻿Log file open, 07/03/18 15:02:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TankGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-617289197) SRandInit(-617289197).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.294827
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.194s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Warning: Incompatible or missing module: UE4Editor-TankGame.dll
+Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe TankGame Development Win64 -project="D:/Local_respositories/TANK_TEST/TankGame/TankGame.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Creating makefile for TankGame (no existing makefile)
+Performing full C++ include scan (no include cache file)
+@progress push 5%
+Parsing headers for TankGameEditor
+  Running UnrealHeaderTool "D:\Local_respositories\TANK_TEST\TankGame\TankGame.uproject" "D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\TankGameEditor\Development\TankGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for TankGameEditor in 12,2383561 seconds
+@progress pop
+Performing 27 actions (4 in parallel)
+[2/27] Resource PCLaunch.rc
+[3/27] Resource ModuleVersionResource.rc.inl
+SharedPCH.Engine.cpp
+TankMovementComponent.gen.cpp
+Projectile.gen.cpp
+TankGame.init.gen.cpp
+TankGameGameModeBase.gen.cpp
+TankController_Player.gen.cpp
+TankController_AI.gen.cpp
+TankBarrel.gen.cpp
+Tank.gen.cpp
+TankAimingComponent.gen.cpp
+TankTurret.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankTurret.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankTracks.cpp
+TankMovementComponent.cpp
+TankGameGameModeBase.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankTracks.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankMovementComponent.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankGameGameModeBase.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankGame.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankGame.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankController_Player.cpp
+TankController_AI.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankController_Player.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankController_AI.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankBarrel.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankBarrel.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankAimingComponent.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\TankAimingComponent.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+Tank.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\Tank.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+Projectile.cpp
+D:\Local_respositories\TANK_TEST\TankGame\Source\TankGame\Projectile.cpp: warning C4828: The file contains a character starting at offset 0x19 that is illegal in the current source character set (codepage 65001).
+TankTracks.gen.cpp
+TankTurret.gen.cpp
+[26/27] Link UE4Editor-TankGame.dll
+[27/27] Link UE4Editor-TankGame.lib
+   Creating library D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TankGame.lib and object D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TankGame.exp
+   Creating library D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TankGame.suppressed.lib and object D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TankGame.suppressed.exp
+Total build time: 42,28 seconds (Local executor: 16,74 seconds)
+LogModuleManager: Display: Found up-to-date module file D:/Local_respositories/TANK_TEST/TankGame/Binaries/Win64/UE4Editor-TankGame.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am dompavnb2 (172.27.218.209:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.03-13.03.21:335][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.03-13.03.21:335][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.03-13.03.21:356][  0]LogInit: Computer: DOMPAVNB2
+[2018.07.03-13.03.21:357][  0]LogInit: User: dompav
+[2018.07.03-13.03.21:357][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.03-13.03.21:357][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.07.03-13.03.21:357][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.07.03-13.03.21:357][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.03-13.03.21:357][  0]LogMemory: Process Physical Memory: 279.98 MB used, 279.98 MB peak
+[2018.07.03-13.03.21:357][  0]LogMemory: Process Virtual Memory: 265.36 MB used, 265.36 MB peak
+[2018.07.03-13.03.21:357][  0]LogMemory: Physical Memory: 8737.26 MB used,  7485.18 MB free, 16222.44 MB total
+[2018.07.03-13.03.21:357][  0]LogMemory: Virtual Memory: 737.98 MB used,  7485.18 MB free, 134217728.00 MB total
+[2018.07.03-13.03.21:387][  0]LogInit: Using OS detected language (cs-CZ).
+[2018.07.03-13.03.21:387][  0]LogInit: Using OS detected locale (cs-CZ).
+[2018.07.03-13.03.21:400][  0]LogTextLocalizationManager: No localization for 'cs-CZ' exists, so 'en' will be used for the language.
+[2018.07.03-13.03.21:902][  0]LogStreaming: Display: Took  0.516s to EndInitTextLocalization.
+[2018.07.03-13.03.21:903][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.03-13.03.21:975][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.03-13.03.21:975][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.03-13.03.23:580][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.03-13.03.23:665][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.07.03-13.03.23:665][  0]LogD3D11RHI:       4055/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.03-13.03.23:678][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.07.03-13.03.23:678][  0]LogD3D11RHI:       128/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.03-13.03.23:682][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.03-13.03.23:682][  0]LogD3D11RHI:       0/0/8111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.03-13.03.23:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.03-13.03.23:695][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.03-13.03.23:695][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.07.03-13.03.23:695][  0]LogWindows: EnumDisplayDevices:
+[2018.07.03-13.03.23:696][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.07.03-13.03.23:697][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.07.03-13.03.23:698][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.07.03-13.03.23:698][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.03-13.03.23:698][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.07.03-13.03.23:698][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.03-13.03.23:698][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.03-13.03.23:698][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2018.07.03-13.03.23:753][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.03-13.03.23:753][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.03-13.03.23:753][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.03-13.03.23:775][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.03-13.03.23:776][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (D:/Local_respositories/TANK_TEST/TankGame/Intermediate/Shaders/WorkingDirectory/11012/).
+[2018.07.03-13.03.23:777][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DOMPAV/AppData/Local/Temp/UnrealShaderWorkingDir/81B3B86244FDDAFAA162398F02905C89/'.
+[2018.07.03-13.03.24:150][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.03-13.03.24:170][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.03-13.03.24:189][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.03-13.03.24:206][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.03-13.03.24:226][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.03-13.03.24:244][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.03-13.03.24:261][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.03-13.03.24:280][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.03-13.03.24:288][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.03-13.03.24:303][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.03-13.03.24:320][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.03-13.03.24:336][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.03-13.03.24:350][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.03-13.03.24:369][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.03-13.03.24:387][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.03-13.03.24:419][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.03-13.03.24:419][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.03-13.03.24:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.03-13.03.24:439][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.03-13.03.24:484][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.03-13.03.24:499][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.03-13.03.24:516][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.03-13.03.24:531][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.03-13.03.24:548][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.03-13.03.24:566][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.03-13.03.24:566][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.03-13.03.24:863][  0]LogXGEController: Cleaning working directory: C:/Users/DOMPAV/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.03-13.03.24:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.03-13.03.24:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.03-13.03.24:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.03-13.03.25:835][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/DOMPAV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DOMPAV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Local_respositories/TANK_TEST/TankGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Local_respositories/TANK_TEST/TankGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.03-13.03.25:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.03-13.03.25:941][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.03-13.03.25:955][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DOMPAV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.03-13.03.25:955][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.03-13.03.25:955][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.03-13.03.25:968][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.03-13.03.25:968][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.03-13.03.25:970][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.03-13.03.25:970][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.03-13.03.26:187][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.07.03-13.03.26:635][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.03-13.03.26:855][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.03-13.03.26:859][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.03-13.03.26:859][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.03-13.03.26:859][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.03-13.03.26:859][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.03-13.03.26:859][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.03-13.03.26:945][  0]LogNetVersion: TankGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2450527207)
+[2018.07.03-13.03.27:679][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.068088 seconds
+[2018.07.03-13.03.27:688][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.03-13.03.27:688][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.03-13.03.27:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.03-13.03.30:688][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.07.03-13.03.30:738][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.03-13.03.30:815][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.03-13.03.31:816][  0]SourceControl: Source control is disabled
+[2018.07.03-13.03.31:816][  0]SourceControl: Source control is disabled
+[2018.07.03-13.03.31:866][  0]SourceControl: Source control is disabled
+[2018.07.03-13.03.31:914][  0]SourceControl: Source control is disabled
+[2018.07.03-13.03.33:110][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.03-13.03.33:495][  0]LogOcInput: OculusInput pre-init called
+[2018.07.03-13.03.33:983][  0]LogEngine: Initializing Engine...
+[2018.07.03-13.03.33:984][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.03-13.03.33:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.03-13.03.33:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.03-13.03.34:302][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.03-13.03.34:324][  0]LogInit: XAudio2 using 'Reproduktory / sluchátka (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.03-13.03.34:726][  0]LogInit: FAudioDevice initialized.
+[2018.07.03-13.03.34:822][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/DOMPAV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.03-13.03.34:837][  0]LogInit: Texture streaming: Enabled
+[2018.07.03-13.03.34:864][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.03-13.03.34:889][  0]LogInit: Transaction tracking system initialized
+[2018.07.03-13.03.34:925][  0]BlueprintLog: New page: Editor Load
+[2018.07.03-13.03.35:035][  0]LocalizationService: Localization service is disabled
+[2018.07.03-13.03.35:562][  0]LogConsoleResponse: Display: 
+[2018.07.03-13.03.35:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.03-13.03.35:811][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.03-13.03.35:811][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.03-13.03.35:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.03-13.03.35:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.03-13.03.35:972][  0]LogFileCache: Scanning file cache for directory 'D:/Local_respositories/TANK_TEST/TankGame/Content/' took 0.02s
+[2018.07.03-13.03.36:683][  0]SourceControl: Source control is disabled
+[2018.07.03-13.03.36:683][  0]Cmd: MAP LOAD FILE="D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.03-13.03.36:683][  0]LightingResults: New page: Lighting Build
+[2018.07.03-13.03.36:687][  0]MapCheck: New page: Map Check
+[2018.07.03-13.03.36:687][  0]LightingResults: New page: Lighting Build
+[2018.07.03-13.03.36:883][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.36:883][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:883][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Burst
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:884][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_explosion_subUV
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:884][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/m_flare_01
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:884][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.36:884][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:885][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Burst
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:885][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_explosion_subUV
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:885][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/m_flare_01
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.36:885][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/ImpactBlast.uasset.
+[2018.07.03-13.03.36:885][  0]LoadErrors: Error: /Game/Mesh/Projectile/ImpactBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.07.03-13.03.36:893][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.36:893][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:893][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Burst
+[2018.07.03-13.03.36:893][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.36:893][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:893][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_explosion_subUV
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:894][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/m_flare_01
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:894][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:894][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Burst
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.36:894][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:894][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_explosion_subUV
+[2018.07.03-13.03.36:895][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.36:895][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:895][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/m_flare_01
+[2018.07.03-13.03.36:895][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.36:895][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Mesh/Projectile/LaunchBlast.uasset.
+[2018.07.03-13.03.36:895][  0]LoadErrors: Error: /Game/Mesh/Projectile/LaunchBlast : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2018.07.03-13.03.36:901][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Sphere'
+[2018.07.03-13.03.36:901][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Sphere' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Projectile_BP.uasset.
+[2018.07.03-13.03.36:901][  0]LoadErrors: Error: /Game/Tank/Tank/Projectile_BP : Can't find file for asset. /Game/StarterContent/Shapes/Shape_Sphere
+[2018.07.03-13.03.36:902][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Sphere'
+[2018.07.03-13.03.36:902][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Sphere' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Projectile_BP.uasset.
+[2018.07.03-13.03.36:902][  0]LoadErrors: Error: /Game/Tank/Tank/Projectile_BP : Can't find file for asset. /Game/StarterContent/Shapes/Shape_Sphere
+[2018.07.03-13.03.36:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a8c8aa0, Size=224, Default__Projectile_BP_C Function /Game/Tank/Tank/Projectile_BP.Projectile_BP_C:ExecuteUbergraph_Projectile_BP
+[2018.07.03-13.03.36:903][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Sphere'
+[2018.07.03-13.03.36:903][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Sphere' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:903][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Shapes/Shape_Sphere
+[2018.07.03-13.03.36:903][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Sphere'
+[2018.07.03-13.03.36:903][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Sphere' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:903][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Shapes/Shape_Sphere
+[2018.07.03-13.03.36:904][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Sphere'
+[2018.07.03-13.03.36:904][  0]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere Referenced by CollisionMesh
+[2018.07.03-13.03.36:904][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Sphere' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:904][  0]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere Referenced by CollisionMesh
+[2018.07.03-13.03.36:904][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Shapes/Shape_Sphere
+[2018.07.03-13.03.36:907][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001781a8c8aa0, Size=224
+[2018.07.03-13.03.36:907][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a8c8aa0, Size=224, Default__Projectile_BP_C Function /Engine/Transient.REINST_Projectile_BP_C_5:ExecuteUbergraph_Projectile_BP
+[2018.07.03-13.03.36:909][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a82f580, Size=224, Default__Projectile_BP_C Function /Game/Tank/Tank/Projectile_BP.Projectile_BP_C:ExecuteUbergraph_Projectile_BP
+[2018.07.03-13.03.36:916][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:916][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:916][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.36:923][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Explosion01'
+[2018.07.03-13.03.36:923][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:923][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Audio/Explosion01
+[2018.07.03-13.03.36:924][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:924][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:924][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.36:990][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Explosion01'
+[2018.07.03-13.03.36:991][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Tank/Tank/Tank_BP.uasset.
+[2018.07.03-13.03.36:991][  0]LoadErrors: Error: /Game/Tank/Tank/Tank_BP : Can't find file for asset. /Game/StarterContent/Audio/Explosion01
+[2018.07.03-13.03.36:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000178126c2c80, Size=376, Default__Tank_BP_C Function /Game/Tank/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:993][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Explosion01'
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:993][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Audio/Explosion01
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:993][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Explosion01'
+[2018.07.03-13.03.36:993][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:993][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Audio/Explosion01
+[2018.07.03-13.03.36:997][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Audio/Explosion01'
+[2018.07.03-13.03.36:997][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Explosion01.Explosion01 Referenced by K2Node_CallFunction_307
+[2018.07.03-13.03.36:997][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Audio/Explosion01' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:997][  0]LoadErrors: Failed to load /Game/StarterContent/Audio/Explosion01.Explosion01 Referenced by K2Node_CallFunction_307
+[2018.07.03-13.03.36:997][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Audio/Explosion01
+[2018.07.03-13.03.36:998][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:998][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile Referenced by TankTracks_right_GEN_VARIABLE
+[2018.07.03-13.03.36:998][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:998][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile Referenced by TankTracks_right_GEN_VARIABLE
+[2018.07.03-13.03.36:998][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.36:999][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Tech_Hex_Tile'
+[2018.07.03-13.03.36:999][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile Referenced by TankTracks_left_GEN_VARIABLE
+[2018.07.03-13.03.36:999][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Tech_Hex_Tile' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.36:999][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile Referenced by TankTracks_left_GEN_VARIABLE
+[2018.07.03-13.03.36:999][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2018.07.03-13.03.37:002][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000178126c2c80, Size=376
+[2018.07.03-13.03.37:002][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a50ab00, Size=376, Default__Tank_BP_C Function /Engine/Transient.REINST_Tank_BP_C_8:ExecuteUbergraph_Tank_BP
+[2018.07.03-13.03.37:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a4cf580, Size=376, Default__Tank_BP_C Function /Game/Tank/Tank/Tank_BP.Tank_BP_C:ExecuteUbergraph_Tank_BP
+[2018.07.03-13.03.37:017][  0]LogLinker: Warning: Can't find file '/Game/Landscape/Levels/Battleground_BuiltData'
+[2018.07.03-13.03.37:017][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/Levels/Battleground_BuiltData' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.37:017][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/Landscape/Levels/Battleground_BuiltData
+[2018.07.03-13.03.37:025][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N'
+[2018.07.03-13.03.37:025][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/LandscapeMaterial/LMaterial.uasset.
+[2018.07.03-13.03.37:025][  0]LoadErrors: Error: /Game/Landscape/LandscapeMaterial/LMaterial : Can't find file for asset. /Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N
+[2018.07.03-13.03.37:025][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D'
+[2018.07.03-13.03.37:025][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/LandscapeMaterial/LMaterial.uasset.
+[2018.07.03-13.03.37:025][  0]LoadErrors: Error: /Game/Landscape/LandscapeMaterial/LMaterial : Can't find file for asset. /Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D
+[2018.07.03-13.03.37:246][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N'
+[2018.07.03-13.03.37:247][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/LandscapeMaterial/LMaterial.uasset.
+[2018.07.03-13.03.37:247][  0]LoadErrors: Error: /Game/Landscape/LandscapeMaterial/LMaterial : Can't find file for asset. /Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N
+[2018.07.03-13.03.37:247][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D'
+[2018.07.03-13.03.37:247][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/LandscapeMaterial/LMaterial.uasset.
+[2018.07.03-13.03.37:247][  0]LoadErrors: Error: /Game/Landscape/LandscapeMaterial/LMaterial : Can't find file for asset. /Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D
+[2018.07.03-13.03.37:252][  0]LogLinker: Warning: Can't find file '/Game/Landscape/Levels/Battleground_BuiltData'
+[2018.07.03-13.03.37:252][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/Levels/Battleground_BuiltData' while loading D:/Local_respositories/TANK_TEST/TankGame/Content/Landscape/Levels/Battleground.umap.
+[2018.07.03-13.03.37:252][  0]LoadErrors: Error: /Game/Landscape/Levels/Battleground : Can't find file for asset. /Game/Landscape/Levels/Battleground_BuiltData
+[2018.07.03-13.03.37:294][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a486e80, Size=208, Default__Battleground_C Function /Game/Landscape/Levels/Battleground.Battleground_C:ExecuteUbergraph_Battleground
+[2018.07.03-13.03.37:295][  0]LogLinker: Warning: Can't find file '/Game/Landscape/Levels/Battleground_BuiltData'
+[2018.07.03-13.03.37:295][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/Levels/Battleground_BuiltData' while loading NULL.
+[2018.07.03-13.03.37:295][  0]LogLinker: Warning: Can't find file '/Game/Landscape/Levels/Battleground_BuiltData'
+[2018.07.03-13.03.37:295][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/Levels/Battleground_BuiltData' while loading NULL.
+[2018.07.03-13.03.37:297][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001781a486e80, Size=208
+[2018.07.03-13.03.37:297][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a486e80, Size=208, Default__Battleground_C Function /Engine/Transient.REINST_Battleground_C_10:ExecuteUbergraph_Battleground
+[2018.07.03-13.03.37:299][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001781a485b40, Size=208, Default__Battleground_C Function /Game/Landscape/Levels/Battleground.Battleground_C:ExecuteUbergraph_Battleground
+[2018.07.03-13.03.37:446][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D'
+[2018.07.03-13.03.37:446][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D.T_ground_Moss_D Referenced by MaterialExpressionTextureSample_26
+[2018.07.03-13.03.37:446][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D' while loading NULL.
+[2018.07.03-13.03.37:446][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/GroundTiles/Grass/T_ground_Moss_D.T_ground_Moss_D Referenced by MaterialExpressionTextureSample_26
+[2018.07.03-13.03.37:446][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N'
+[2018.07.03-13.03.37:447][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N.T_Ground_Grass_N Referenced by MaterialExpressionTextureSample_27
+[2018.07.03-13.03.37:447][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N' while loading NULL.
+[2018.07.03-13.03.37:447][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/GroundTiles/Grass/T_Ground_Grass_N.T_Ground_Grass_N Referenced by MaterialExpressionTextureSample_27
+[2018.07.03-13.03.37:476][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.37:476][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2018.07.03-13.03.37:476][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2018.07.03-13.03.37:477][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2018.07.03-13.03.37:477][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2018.07.03-13.03.37:478][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.37:478][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2018.07.03-13.03.37:478][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2018.07.03-13.03.37:478][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_smoke_subUV'
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_smoke_subUV' while loading NULL.
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_0
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_explosion_subUV'
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_explosion_subUV' while loading NULL.
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV Referenced by ParticleModuleRequired_2
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/m_flare_01'
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2018.07.03-13.03.37:480][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/m_flare_01' while loading NULL.
+[2018.07.03-13.03.37:480][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01 Referenced by ParticleModuleRequired_4
+[2018.07.03-13.03.37:481][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Burst'
+[2018.07.03-13.03.37:481][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2018.07.03-13.03.37:481][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Burst' while loading NULL.
+[2018.07.03-13.03.37:481][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/Materials/M_Burst.M_Burst Referenced by ParticleModuleRequired_8
+[2018.07.03-13.03.37:492][  0]LogLinker: Warning: Can't find file '/Game/Landscape/Levels/Battleground_BuiltData'
+[2018.07.03-13.03.37:492][  0]LoadErrors: Failed to load /Game/Landscape/Levels/Battleground_BuiltData.Battleground_BuiltData Referenced by PersistentLevel
+[2018.07.03-13.03.37:492][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/Levels/Battleground_BuiltData' while loading NULL.
+[2018.07.03-13.03.37:492][  0]LoadErrors: Failed to load /Game/Landscape/Levels/Battleground_BuiltData.Battleground_BuiltData Referenced by PersistentLevel
+[2018.07.03-13.03.37:751][  0]LogMaterial: Missing cached shader map for material LMaterial, compiling. 
+[2018.07.03-13.03.37:753][  0]LogMaterial: Warning: D:\Local_respositories\TANK_TEST\TankGame\Content\Landscape\Levels\Battleground.umap: Failed to compile Material Instance with Base LMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.03-13.03.37:753][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.03-13.03.37:756][  0]LogMaterial: Missing cached shader map for material LMaterial, compiling. 
+[2018.07.03-13.03.37:758][  0]LogMaterial: Warning: D:\Local_respositories\TANK_TEST\TankGame\Content\Landscape\Levels\Battleground.umap: Failed to compile Material Instance with Base LMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.03-13.03.37:758][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.03-13.03.37:767][  0]LogAIModule: Creating AISystem for world Battleground
+[2018.07.03-13.03.38:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.03-13.03.38:319][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001781a8c8aa0, Size=224
+[2018.07.03-13.03.38:319][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001781a50ab00, Size=376
+[2018.07.03-13.03.38:319][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001781a486e80, Size=208
+[2018.07.03-13.03.38:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.03-13.03.38:429][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108,878ms to complete.
+[2018.07.03-13.03.38:429][  0]LogFileHelpers: Loading map 'Battleground' took 1.747
+[2018.07.03-13.03.38:526][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.03-13.03.38:612][  0]LogCollectionManager: Loaded 0 collections in 0.002246 seconds
+[2018.07.03-13.03.38:693][  0]LogFileCache: Scanning file cache for directory 'D:/Local_respositories/TANK_TEST/TankGame/Saved/Collections/' took 0.01s
+[2018.07.03-13.03.38:693][  0]LogFileCache: Scanning file cache for directory 'D:/Local_respositories/TANK_TEST/TankGame/Content/Developers/dompav/Collections/' took 0.01s
+[2018.07.03-13.03.38:693][  0]LogFileCache: Scanning file cache for directory 'D:/Local_respositories/TANK_TEST/TankGame/Content/Collections/' took 0.01s
+[2018.07.03-13.03.38:693][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.03-13.03.38:706][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2477 classes and 568 folders.
+[2018.07.03-13.03.38:716][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.07.03-13.03.38:785][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.07.03-13.03.38:845][  0]LogSlate: Took 0.000787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.03-13.03.38:854][  0]LogSlate: Took 0.000708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.03-13.03.38:984][  0]LogRenderer: Reallocating scene render targets to support 928x904 Format 9 NumSamples 1 (Frame:1).
+[2018.07.03-13.03.39:218][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.07.03-13.03.39:219][  0]LogLoad: (Engine Initialization) Total time: 70.65 seconds
+[2018.07.03-13.03.39:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.03-13.03.39:263][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.07.03-13.03.39:299][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-13.03.39:376][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.07.03-13.03.39:390][  1]LogAssetRegistry: Asset discovery search completed in 13.2254 seconds
+[2018.07.03-13.03.39:393][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.03-13.03.39:393][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000156 seconds (updated 0 objects)
+[2018.07.03-13.03.56:728][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.03-13.03.56:741][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Landscape/Levels/Battleground.Battleground:PersistentLevel' has LevelScriptBlueprint '/Game/Landscape/Levels/Battleground.Battleground:PersistentLevel.Battleground' with GeneratedClass '/Game/Landscape/Levels/Battleground.Battleground_C' with ClassGeneratedBy '/Game/Landscape/Levels/Battleground.Battleground:PersistentLevel.Battleground'
+[2018.07.03-13.03.56:741][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.03-13.03.56:742][ 17]PIE: New page: PIE session: Battleground (3. 7. 2018 17:03:56)
+[2018.07.03-13.03.56:742][ 17]LogPlayLevel: Creating play world package: /Game/Landscape/Levels/UEDPIE_0_Battleground
+[2018.07.03-13.03.56:993][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.250599s)
+[2018.07.03-13.03.56:994][ 17]LogAIModule: Creating AISystem for world Battleground
+[2018.07.03-13.03.56:995][ 17]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2018.07.03-13.03.56:995][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Landscape/Levels/Battleground.Battleground to /Game/Landscape/Levels/UEDPIE_0_Battleground.Battleground (0.252861s)
+[2018.07.03-13.03.57:017][ 17]LogInit: XAudio2 using 'Reproduktory / sluchátka (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.03-13.03.57:101][ 17]LogInit: FAudioDevice initialized.
+[2018.07.03-13.03.57:202][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x00000178436688c0, Size=32, Default__TankController_BP_C Function /Game/HUD/TankController_BP.TankController_BP_C:ExecuteUbergraph_TankController_BP
+[2018.07.03-13.03.57:203][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000178436688c0, Size=32
+[2018.07.03-13.03.57:204][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x00000178436688c0, Size=32, Default__TankController_BP_C Function /Engine/Transient.REINST_TankController_BP_C_13:ExecuteUbergraph_TankController_BP
+[2018.07.03-13.03.57:206][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x000001783cae2a80, Size=32, Default__TankController_BP_C Function /Game/HUD/TankController_BP.TankController_BP_C:ExecuteUbergraph_TankController_BP
+[2018.07.03-13.03.57:218][ 17]LogLoad: Game class is 'TankGame_GameMode_BP_C'
+[2018.07.03-13.03.57:225][ 17]LogWorld: Bringing World /Game/Landscape/Levels/UEDPIE_0_Battleground.Battleground up for play (max tick rate 60) at 2018.07.03-15.03.57
+[2018.07.03-13.03.57:226][ 17]LogWorld: Bringing up level for play took: 0.005372
+[2018.07.03-13.03.57:231][ 17]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.07.03-13.03.57:753][ 17]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.521 s
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: 
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: Ensure condition failed: Component->HasBegunPlay() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp] [Line: 3129]
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: Failed to route BeginPlay (TankTracks /Game/Landscape/Levels/UEDPIE_0_Battleground.Battleground:PersistentLevel.Tank_BP_2705.TankTracks_left)
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: Stack: 
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000CAE6B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000CABCAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000CABDECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BAA7A2D5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x0000000097142D3F UE4Editor-TankGame.dll!ATank::BeginPlay() [d:\local_respositories\tank_test\tankgame\source\tankgame\tank.cpp:15]
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BAA872FB UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BBD3AE33 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BB1FF731 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BBD2414E UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000BB22443E UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000A68927E0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000A68B1246 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000A68CBBEF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000A633C961 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x00000000A6BD9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000003DD25EAC UE4Editor.exe!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000003DD36BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000003DD36C4A UE4Editor.exe!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000003DD44177 UE4Editor.exe!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000003DD45B87 UE4Editor.exe!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000000A6C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: [Callstack] 0x000000000D23CB31 ntdll.dll!UnknownFunction []
+[2018.07.03-13.03.57:754][ 17]LogOutputDevice: Error: 
+[2018.07.03-13.03.57:756][ 17]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,86 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\Projectile.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\Tank.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankAimingComponent.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankBarrel.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankController_AI.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankController_Player.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankGame.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankGameGameModeBase.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankMovementComponent.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankTracks.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankTurret.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\Projectile.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\Tank.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankAimingComponent.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankBarrel.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankController_AI.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankController_Player.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankGame.init.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankGameGameModeBase.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankMovementComponent.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankTracks.gen.cpp.obj"
+"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\TankGame\TankTurret.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\TankGame\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AIModule.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+/OUT:"D:\Local_respositories\TANK_TEST\TankGame\Binaries\Win64\UE4Editor-TankGame.dll"
+/IMPLIB:"D:\Local_respositories\TANK_TEST\TankGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TankGame.suppressed.lib"
+/PDB:"D:\Local_respositories\TANK_TEST\TankGame\Binaries\Win64\UE4Editor-TankGame.pdb"
+/ignore:4078
